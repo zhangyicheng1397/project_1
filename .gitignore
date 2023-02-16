@@ -1,0 +1,5 @@
+# 忽略xin.html文件
+xin.html
+
+# 忽略test目录
+test/
